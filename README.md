@@ -1,17 +1,13 @@
-# Título do projeto
+# TODO-List
 
-Um parágrafo da descrição do projeto vai aqui
-
+Esse é um projeto de uma lista de tarefas usando java, Springboot e Spring Security.
 ## 🚀 Começando
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
-Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
-
-
 ### 🔧 Como usar
 
-Para usar é preciso dessas Desses passos:
+Para usar é preciso desses passos:
 
 - Primeiro crie um banco de dados MySQL.
 - Depois crie um aquivo chamado configDb.properties e coloque as configurações abaixo e seus valores.
@@ -21,13 +17,13 @@ Para usar é preciso dessas Desses passos:
   spring.datasource.password= Senha do banco de dados 
   api.security.token.secret= Secret para encriptografar suas senhas
   ```
-- Importe as rotas aqui p
+- Importe as rotas do insomnia <a href="https://github.com/matheus-valentim/To-do-list-java/blob/master/RotaInsominia.json">Clicando Aqui.</a>
 
+Agora o app esta pronto para o uso!
 
 ## 📄 Licença
 
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
+Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/matheus-valentim/To-do-list-java/blob/master/LICENSE) para detalhes.
 
 
 ---
-⌨️ com ❤️ por [Armstrong Lohãns](https://gist.github.com/lohhans) 😊
